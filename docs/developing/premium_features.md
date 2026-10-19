@@ -49,7 +49,7 @@ Based on your use case and feasibility, we may offer:
 - **Free Trial** - Limited-time access to premium features (7 days)
 - **Enterprise Plan**
 
-Chekout [Academic Access](https://openmind.com/pricing/academic-access) for more details.
+Check out [Academic Access](https://openmind.com/pricing/academic-access) for more details.
 ## Getting Access
 
 To unlock premium features, contact our team to learn more about the Enterprise Plan:
